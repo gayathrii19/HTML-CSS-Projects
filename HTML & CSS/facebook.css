@@ -1,0 +1,53 @@
+.para-style{
+    font-size: 20px;
+}
+a.visited{
+    background-color: transparent;
+    color: blueviolet;
+}
+.label{
+    font-weight: 100;
+}
+
+.div1{
+    display: flex;;
+}
+.child{
+    width: 50%;
+    padding-bottom: 20px;
+    font-size: x-large;
+}
+.child1{
+    width: 50%;
+    padding-bottom: 20px;
+    font-size: x-large;
+    
+}
+.child2{
+    width: 100%;
+    padding-bottom: 20px;
+    font-size: x-large;
+}
+.child3{
+    width: 50%;
+    padding-bottom: 20px;
+    font-size: x-large;
+}
+.gender{
+    margin-left: 20px;
+}
+.parent{
+    margin-top: 15.5%;
+    margin-left: 4%;
+}
+#btn{
+    font-size: large;
+}
+.div1{
+    width:50%;
+    margin:auto;
+}
+.input-style{
+    width:150%;
+    height:20px;
+}

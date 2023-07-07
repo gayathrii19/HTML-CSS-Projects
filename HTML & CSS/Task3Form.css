@@ -1,0 +1,45 @@
+.form-style{
+    width:50%;
+    margin:auto;
+}
+.First-row{
+   display: flex;
+   width:100%;
+   
+}
+
+.col1{
+    width:55%;
+    
+}
+.col2{
+    width:50%;
+}
+.input-style{
+    width:80%;
+    height:30px;
+}
+.second-row{
+    width:30%;
+    padding-bottom: 15px;
+}
+.input-style1{
+    width:300%;
+    height:30px;
+}
+.third-row{
+    width:30%;
+    padding-bottom: 15px;
+}
+.fourth-row{
+    width:30%;
+    padding-bottom: 15px;
+}
+.input-style2{
+    width:300%;
+    height:80px;
+}
+.fifth-row{
+    width:30%;
+    padding-bottom: 15px;
+}
